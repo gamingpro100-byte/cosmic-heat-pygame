@@ -4,7 +4,6 @@ Just a 2D space shooter from a neighboring parallel world. It was written using 
 
 ## Game launch
 
-- Clone the repository: `git clone https://github.com/Dave-YP/cosmic-heat-pygame.git`
 - Change directory: `cd cosmic-heat-pygame`
 - Create a virtual environment: `python -m venv env`
 - Activate the virtual environment: `source env/Scripts/activate`
@@ -18,9 +17,6 @@ Just a 2D space shooter from a neighboring parallel world. It was written using 
 - pause - P
 - exit - Esc
 
-## Gameplay
-
-[![Cosmic Heat](https://img.youtube.com/vi/ghcX5IXoPLY/0.jpg)](https://www.youtube.com/watch?v=ghcX5IXoPLY "Cosmic Heat")
 
 ## Images
 
